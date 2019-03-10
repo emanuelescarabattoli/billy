@@ -1,0 +1,8 @@
+{
+    "editor.minimap.enabled": false,
+    "workbench.editor.highlightModifiedTabs": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.tslint": true
+    },
+    "editor.renderWhitespace": "all"
+}
